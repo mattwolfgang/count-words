@@ -1,7 +1,7 @@
 {
   "name": "count-words",
   "main": "./lib/count-words",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "A simple package for retrieving a word count.",
   "keywords": [],
   "activationCommands": {
