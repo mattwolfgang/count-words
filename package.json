@@ -1,10 +1,9 @@
 {
   "name": "count-words",
   "main": "./lib/count-words",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple package for retrieving a word count.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "count-words:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
